@@ -1,0 +1,22 @@
+{
+	"replace": false,
+	"values": [
+		"wearableendereyes:ender_eye_necklace",
+		"wearableendereyes:black_eye_necklace",
+		"wearableendereyes:cold_eye_necklace",
+		"wearableendereyes:corrupted_eye_necklace",
+		"wearableendereyes:cryptic_eye_necklace",
+		"wearableendereyes:cursed_eye_necklace",
+		"wearableendereyes:evil_eye_necklace",
+		"wearableendereyes:exotic_eye_necklace",
+		"wearableendereyes:guardian_eye_necklace",
+		"wearableendereyes:lost_eye_necklace",
+		"wearableendereyes:magical_eye_necklace",
+		"wearableendereyes:nether_eye_necklace",
+		"wearableendereyes:old_eye_necklace",
+		"wearableendereyes:rogue_eye_necklace",
+		"wearableendereyes:undead_eye_necklace",
+		"wearableendereyes:witch_eye_necklace",
+		"wearableendereyes:wither_eye_necklace"
+	]
+}

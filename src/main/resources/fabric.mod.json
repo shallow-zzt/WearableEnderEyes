@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "wearableendereyes",
+  "version": "${version}",
+
+  "name": "WearableEnderEyes",
+  "description": "Wear necklaces made of ender eyes.",
+  "authors": [],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "assets/wearableendereyes/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "blue.amquora.wearableendereyes.WearableEnderEyes"
+    ]
+  },
+
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+        "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
